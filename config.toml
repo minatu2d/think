@@ -1,0 +1,26 @@
+baseURL = "http://think.lazytrick.com"
+languageCode = "vi-vn"
+title = "Lazytrick - Mọi thứ ngoài tech"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Minatu2D - All rights reserved"
+disqusShortname = "https-think-lazytrick-com"
+googleAnalytics = "UA-53476519-5"
+
+[params]
+  logo = "/images/icon.png"
+  description ="Lazytrick : Think"
+
+[params.author]
+  name = "hokage"
+  thumbnail = "/images/minatu2d.png"
+  description = "Hokage"
+
+[params.index]
+  picture = "/images/minatu2d.png"
+  title = "Hokage"
+  subtitle = "4th Hokage"
+  mdtext = '''Anything, any thinking!\
+**Lazytrick - Think**\
+### Lazytrick - Think'''
+  alertbar = true
